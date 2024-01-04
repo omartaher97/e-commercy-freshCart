@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/e-commercy-freshCart/static/css/main.f981d5c7.css",
+    "main.js": "/e-commercy-freshCart/static/js/main.dc0538f3.js",
+    "static/media/fa-solid-900.ttf": "/e-commercy-freshCart/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/e-commercy-freshCart/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/e-commercy-freshCart/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/e-commercy-freshCart/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/e-commercy-freshCart/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/e-commercy-freshCart/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/freshcart-logo.svg": "/e-commercy-freshCart/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/e-commercy-freshCart/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/e-commercy-freshCart/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/logo.svg": "/e-commercy-freshCart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/e-commercy-freshCart/index.html",
+    "main.f981d5c7.css.map": "/e-commercy-freshCart/static/css/main.f981d5c7.css.map",
+    "main.dc0538f3.js.map": "/e-commercy-freshCart/static/js/main.dc0538f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f981d5c7.css",
+    "static/js/main.dc0538f3.js"
+  ]
+}
